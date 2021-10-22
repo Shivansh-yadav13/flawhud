@@ -9,8 +9,8 @@
 	//--------------------------------------------------------------
 	"CustomCrosshair"
 	{
-		"visible"			"0"
-		"enabled"			"0"
+		"visible"			"1"
+		"enabled"			"1"
 		"labelText"			"<"
 		"controlName"		"CExLabel"
 		"fieldName"			"CustomCrosshair"
