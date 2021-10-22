@@ -60,8 +60,8 @@
 		"fieldName"			"HudWeaponAmmo"
 		"visible"			"1"
 		"enabled"			"1"
-		"xpos"				"c90"
-		"ypos"				"c93"
+		"xpos"				"r110"
+		"ypos"				"r53"
 		"wide"				"110"
 		"tall"				"43"
 	}
@@ -122,7 +122,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"50"
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"500"
@@ -210,7 +210,6 @@
 	"CHudAccountPanel"
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c-50"
 		"ypos"					"c87"
 		"wide"					"100"
 		"tall"  				"100"
@@ -989,7 +988,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"50"
 		"wide"				"f0"
 		"tall"				"480"
 	}
