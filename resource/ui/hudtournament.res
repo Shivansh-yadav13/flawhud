@@ -806,6 +806,7 @@
 		"fgcolor"				"White"
 		"proportionaltoparent"	"1"
 	}
+	
 	"CountdownLabelShadow"
 	{
 		"ControlName"			"CExLabel"

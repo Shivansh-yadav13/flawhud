@@ -80,7 +80,7 @@
 		"xpos"					"-2"
 		"ypos"					"-2"
 		"zpos"					"2"
-		"wide"					"40"
+		"wide"					"55"
 		"tall"					"20"
 		"pinCorner"				"2"
 		"visible"				"1"
